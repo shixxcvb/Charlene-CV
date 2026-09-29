@@ -16,4 +16,4 @@ IT 415
 This repository contains my personal Curriculum Vitae webpage created using HTML.
 
 ## Merge Conflict Practice
-Project status: Original version
+Project status: Updated by Branch B
